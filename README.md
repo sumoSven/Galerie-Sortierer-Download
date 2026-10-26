@@ -33,3 +33,8 @@ deine Notizen bleiben erhalten.
 ## Rückmeldung
 
 Was gefällt dir, was nervt, was fehlt? Schreib es der Person, die dir diesen Link geschickt hat.
+
+**Etwas klappt nicht?** In der App unten auf **Abarbeiten** → oben rechts **⋮** → **Problem melden**
+und den Bericht per WhatsApp oder Mail schicken. Ist die App abgestürzt, bietet sie das beim nächsten
+Start von selbst an. Der Bericht enthält nur technische Angaben (Handy-Modell, Android-Version,
+Fehlerstelle) – keine Bilder und keine Notizen.
